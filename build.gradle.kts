@@ -6,7 +6,7 @@ version = "1.0-SNAPSHOT"
 plugins {
     application
     java
-    kotlin("jvm") version "1.4.0-rc"
+    kotlin("jvm") version "1.4.10"
     id("org.openjfx.javafxplugin") version "0.0.9"
 }
 
