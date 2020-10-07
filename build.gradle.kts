@@ -22,7 +22,7 @@ kotlin {
 }
 
 javafx {
-    version = "14"
+    version = "15"
     modules = mutableListOf(
             "javafx.controls",
             "javafx.graphics",
